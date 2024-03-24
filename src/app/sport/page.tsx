@@ -3,7 +3,7 @@ import Box from '@/components/Box'
 import Splightbox from '@/components/Splightbox'
 import React, { useEffect, useState } from 'react'
 
-const sport = () => {
+const Sport = () => {
     const [index , setIndex] = useState(0);
     const [prevDis , setPrevDis] = useState(true);
     const [nextDis , setNextDis] = useState(false);
@@ -133,5 +133,5 @@ const sport = () => {
   )
 }
 
-export default sport
+export default Sport
 
