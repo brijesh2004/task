@@ -98,7 +98,7 @@ const sport = () => {
 
   return (
     <div>
-      <h1 className='ml-[7%] mt-[100px]'>Sport</h1>
+      <h1 className='ml-[7%] mt-[100px]'>/Sport</h1>
       <div className='flex m-10 justify-center flex-wrap'>
       <Box src="https://1.bp.blogspot.com/-jKQKjzKXBFY/XSA2bi8wZaI/AAAAAAAAAyA/yORT6KI0kH024FGMsbeRkMP-2acB1NX7QCLcBGAs/s1600/IMG_20190706_111524.jpg" name="Rohit Sharma" events="45" sport="Cricket"/>
       <Box src="https://1.bp.blogspot.com/-jKQKjzKXBFY/XSA2bi8wZaI/AAAAAAAAAyA/yORT6KI0kH024FGMsbeRkMP-2acB1NX7QCLcBGAs/s1600/IMG_20190706_111524.jpg" name="Rohit Sharma" events="45" sport="Cricket"/>
